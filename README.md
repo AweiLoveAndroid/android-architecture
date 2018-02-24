@@ -1,0 +1,2 @@
+# android-architecture
+讨论和展示Android应用的不同架构工具和模式的范例集合
