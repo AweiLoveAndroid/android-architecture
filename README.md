@@ -3,7 +3,7 @@
 
 ###### 按照国际惯例，提供双语版本的README文档，这里是中文文档(翻译自英文文档)：
 
-#### [英文文档]()|[中文文档]()
+#### [英文文档](https://github.com/AweiLoveAndroid/android-architecture/blob/master/README-English.md)|[中文文档](https://github.com/AweiLoveAndroid/android-architecture/blob/master/README.md)
 
 ----
 

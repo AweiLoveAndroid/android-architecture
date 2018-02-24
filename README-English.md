@@ -1,5 +1,7 @@
 # Android Architecture Blueprints
 
+本文档复制于谷歌的文档：[Android Architecture Blueprints](https://github.com/googlesamples/android-architecture)
+
 <img src="https://github.com/googlesamples/android-architecture/wiki/images/aab-logo.png" alt="Android Architecture Blueprints"/>
 
 The Android framework provides a lot of flexibility in deciding how to organize and <em>architect</em> an Android app. While this freedom is very valuable, it can also lead to apps with large classes, inconsistent naming schemes, as well as mismatching or missing architectures. These types of issues can make testing, maintaining and extending your apps difficult.
