@@ -97,7 +97,7 @@ Android框架为决定如何 **组织和构建** Android应用程序提供了很
 
 要在Android Studio中打开其中一个示例，首先检查一个示例分支，然后在Android Studio中打开`todoapp /`目录。 以下一系列步骤说明如何打开 [todo-mvp](https://github.com/googlesamples/android-architecture/tree/todo-mvp) 示例。
 
-**注意：**主分支不编译。
+**注意:** 主分支不编译。
 
 clone克隆库：
 
@@ -108,7 +108,7 @@ Checkout `todo-mvp` 示例:
     git checkout todo-mvp
 
 
-**注意：**要查看不同的示例，请用您想要checkout的示例名称替换`todo-mvp`，最后在Android Studio中打开`todoapp /`目录。
+**注意:** 要查看不同的示例，请用您想要checkout的示例名称替换`todo-mvp`，最后在Android Studio中打开`todoapp /`目录。
 
 ----
 
